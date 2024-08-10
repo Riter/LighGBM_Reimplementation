@@ -1,4 +1,3 @@
-```markdown
 # LightGBM Reimplementation
 
 Этот проект представляет собой реализацию алгоритма LightGBM на основе [Оригинальной статьи](https://papers.nips.cc/paper_files/paper/2017/file/6449f44a102fde848669bdd9eb6b76fa-Paper.pdf), включающую ключевые оптимизации, такие как Leaf-Wise стратегия роста дерева, использование гистограмм для разделения, а также механизмы ускорения, такие как Gradient-based One-Side Sampling (GOSS) и Exclusive Feature Bundling (EFB).
