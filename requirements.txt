@@ -1,0 +1,9 @@
+joblib==1.4.2
+lightgbm==4.5.0
+numpy==2.0.1
+scikit-learn==1.5.1
+scipy==1.14.0
+setuptools==72.1.0
+threadpoolctl==3.5.0
+wheel==0.43.0
+xgboost==2.1.1
